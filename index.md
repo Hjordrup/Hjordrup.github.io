@@ -10,7 +10,7 @@ Jeg er født i Næstved og har boet den største del af mit liv der, men er på 
 
 ______________________________________________________________________
 
-Jeg er selv 24år. min kæreste er 25. og mnin søn er 2år. 
+Jeg er selv 24år. min kæreste er 25. og min søn er 2år. 
 
 _________________________________________________________________
 
@@ -19,7 +19,7 @@ De sidste mange år har jeg arbejdte som kok men vil nu gerne finde nye veje.
 
 ### Hvad vil jeg gerne opnå gennem datamatiker studie. 
 Jeg håber at jeg gennem Datamatiker studie kan blive bedre til at arbejde med computer.
-Jeg vil især gerne lære mere omkring computer sikkerhed. 
+Jeg vil især gerne lære mere vedrørende computer sikkerhed, da dette er et emne jeg finder yderest spæende. 
 
 
 
