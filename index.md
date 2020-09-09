@@ -12,13 +12,19 @@ ______________________________________________________________________
 
 Jeg er selv 24år min kæreste er 25 og mnin søn er 2år. 
 
-_________________________________________________________________-
+_________________________________________________________________
+
+De sidste mange år har jeg arbejdte som kok men vil nu gerne finde nye veje. 
+
 
 ### Hvad vil jeg gerne opnå gennem datamatiker studie. 
+Jeg håber at jeg gennem Datamatiker studie kan blive
+
+
 
 
 
 ### Kontakt informationer. 
 E-mail: ande897d@edu.easj.dk // Hjordrup96@live.dk 
-
+Tlf: 25541839 
 
