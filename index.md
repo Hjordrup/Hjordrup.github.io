@@ -21,6 +21,9 @@ De sidste mange år har jeg arbejdte som kok men vil nu gerne finde nye veje.
 Jeg håber at jeg gennem Datamatiker studie kan blive bedre til at arbejde med computer.
 Jeg vil især gerne lære mere vedrørende computer sikkerhed, da dette er et emne jeg finder yderest spæende. 
 
+<h3> Hvem er jeg som Datamatiker studerende </h3> 
+Hvis jeg skal beskrive mig selv som studerende er jeg en glad og aktiv studerende, der altid er klar på nye udfordringer. 
+
 
 
 
