@@ -6,8 +6,13 @@ Denne side vil indeholde informationer omkring hvem jeg er som person, hvilken u
 Mit navn er Andders Hjordrup Larsen. 
 ______________________________________
 
-Jeg er født i Næstved og har boet den største del af mit liv der, men er på nuværende tidspunkt bosat i Skælskør, med min kæreste Marianne og vores søn Liam på 2år.  
+Jeg er født i Næstved og har boet den største del af mit liv der, men er på nuværende tidspunkt bosat i Skælskør, med min kæreste Marianne og vores søn Liam.
 
+______________________________________________________________________
+
+Jeg er selv 24år min kæreste er 25 og mnin søn er 2år. 
+
+_________________________________________________________________-
 
 ### Hvad vil jeg gerne opnå gennem datamatiker studie. 
 
