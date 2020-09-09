@@ -29,6 +29,6 @@ Hvis jeg skal beskrive mig selv som studerende er jeg en glad og aktiv studerend
 
 
  <h2> Kontakt informationer. </h2>
-E-mail: ande897d@edu.easj.dk // Hjordrup96@live.dk 
+E-mail: ande897d@edu.easj.dk // Hjordrup96@live.dk// 
  Tlf: 25541839 
 Min github pages: https://github.com/hjordrup
