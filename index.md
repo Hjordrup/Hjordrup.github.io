@@ -4,7 +4,7 @@
 
 <h2> Anders Hjordrup Larsen hvem er jeg. </h2>
 Mit navn er Andders Hjordrup Larsen.
-
+![Anders Hjordrup Larsen](https://raw.githubusercontent.com/Hjordrup/Hjordrup.github.io/master/BilledeTilGithub.png)
 
 Jeg er født i Næstved og har boet den største del af mit liv der, men er på nuværende tidspunkt bosat i Skælskør, med min kæreste Marianne og vores søn Liam.
 
