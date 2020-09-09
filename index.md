@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welkommen til min info side 
 
-You can use the [editor on GitHub](https://github.com/Hjordrup/Hjordrup.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Denne side vil indeholde informationer omkring hvem jeg er som person, hvilken udvikling jeg håber på at have på datamatiker studie og sidst men ikke mindst hvad jeg håber på at lave efter studie. 
 
 ### Markdown
 
