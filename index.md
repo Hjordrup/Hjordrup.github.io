@@ -1,6 +1,6 @@
 <h1> Velkommen til min info side </h1>
 
-*Denne side vil indeholde informationer omkring hvem jeg er som person, hvilken udvikling jeg håber på at have på datamatiker studie og sidst men ikke mindst hvad jeg håber på at lave efter studie.* 
+***Denne side vil indeholde informationer omkring hvem jeg er som person, hvilken udvikling jeg håber på at have på datamatiker studie og sidst men ikke mindst hvad jeg håber på at lave efter studie.*** 
 
 <h2> Anders Hjordrup Larsen hvem er jeg. </h2>
 Mit navn er Andders Hjordrup Larsen.
